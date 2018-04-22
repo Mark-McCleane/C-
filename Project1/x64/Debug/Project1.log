@@ -1,0 +1,29 @@
+﻿  push_front.cpp
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(1): error C2653: 'List': is not a class or namespace name
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(1): error C2143: syntax error: missing ',' before '&'
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(3): error C2065: 'Node': undeclared identifier
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(3): error C2065: 'new_node': undeclared identifier
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(3): error C2061: syntax error: identifier 'Node'
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(4): error C2065: 'head': undeclared identifier
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(5): error C2065: 'head': undeclared identifier
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(5): error C2065: 'new_node': undeclared identifier
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(8): error C2065: 'new_node': undeclared identifier
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(8): error C2227: left of '->next' must point to class/struct/union/generic type
+  c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(8): note: type is 'unknown-type'
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(8): error C2065: 'head': undeclared identifier
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(9): error C2065: 'head': undeclared identifier
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\push_front.cpp(9): error C2065: 'new_node': undeclared identifier
+  Main.cpp
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\main.cpp(13): error C2143: syntax error: missing ';' before '*'
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\main.cpp(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\main.cpp(13): error C2238: unexpected token(s) preceding ';'
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\main.cpp(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\main.cpp(17): error C2143: syntax error: missing ',' before '&'
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\main.cpp(38): error C2065: 'null': undeclared identifier
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\main.cpp(72): error C2661: 'Node::Node': no overloaded function takes 2 arguments
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\main.cpp(87): error C2661: 'Node::Node': no overloaded function takes 2 arguments
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\main.cpp(107): error C2275: 'List': illegal use of this type as an expression
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\main.cpp(112): error C2661: 'Node::Node': no overloaded function takes 2 arguments
+c:\users\mark\desktop\c++\lab 4\lab4q1\project1\main.cpp(113): error C2661: 'Node::Node': no overloaded function takes 2 arguments
+  Generating Code...
